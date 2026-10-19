@@ -31,7 +31,7 @@ Run migrations:
 
 ```bash
 
-ython manage.py makemigrations signals_demo
+python manage.py makemigrations signals_demo
 
 python manage.py migrate
 ```
